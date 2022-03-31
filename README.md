@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Hamed Vahedi, you can connect me with @hvahedi81
+- 🌱 My official website is hamedvahedi.com, and my Linkedin page is linkedin.com/in/hamedvahedi/

@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Hamed Vahedi, you can connect me with @hvahedi81
-- 🌱 My official website is hamedvahedi.com, and my Linkedin page is linkedin.com/in/hamedvahedi/
+- 📚 I'm a Software Engineer graduated from Iran University of Science & Technology (IUST).
+- 👉 My official website is hamedvahedi.com, and my LinkedIn page is linkedin.com/in/hamedvahedi/
